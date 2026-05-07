@@ -8,7 +8,7 @@ handmade cursors that are ugly in a good way
 macOS Tahoe https://github.com/AdamWawrzynkowskiGF/Mousecape-TahoeSupport/releases
 
 macOS Sequoia and under
-https://mousecape.com/  (IF THIS IS BROKEN, TRY THE OTHER LINK. PROPER ONES WILL HAVE THE ARROW AND IBEAM WORKING)
+https://mousecape.com/  (IF THIS IS BROKEN, TRY THE OTHER LINK.)
 
 INSTALLATION GUIDE
 
