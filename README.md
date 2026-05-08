@@ -3,7 +3,8 @@ handmade cursors that are ugly in a good way
 
 
 
-# ONLY AVAILABLE ON MACOS, REQUIRES MOUSECAPE APP
+# ONLY AVAILABLE ON MACOS
+this will require an app called "Mousecape", the links to downloads are here:
 
 macOS Tahoe https://github.com/AdamWawrzynkowskiGF/Mousecape-TahoeSupport/releases
 
